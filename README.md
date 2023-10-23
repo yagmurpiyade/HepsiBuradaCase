@@ -1,5 +1,5 @@
 # HepsiBuradaCase
-Yağmur Piyade Hepsiburada otomasyon case çalışmasıdır
+Yağmur Piyade Hepsiburada otomasyon case çalışmasıdır.
 
 Proje cross-platform test altyapısı ile hem Chrome hem Firefox tarayıcıları üzerinden çalışacak şekilde kodlanmıştır.
 

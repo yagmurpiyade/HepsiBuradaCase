@@ -1,6 +1,8 @@
 # HepsiBuradaCase
 Yağmur Piyade Hepsiburada otomasyon case çalışmasıdır.
 
+Not: Proje testing.xml run edilerek çalıştırılmalıdır.
+
 Proje cross-platform test altyapısı ile hem Chrome hem Firefox tarayıcıları üzerinden çalışacak şekilde kodlanmıştır.
 
 Test esnasında hata alınması durumunda extent report ile raporlanır ve C dizini altına ekran görüntüsü alınır.
